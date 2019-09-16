@@ -1,0 +1,39 @@
+Hi, xxx
+    Below is my year-end summary. thanks.
+
+Accomplishment
+1.In this month, I started a work on front-end upgrades. Although it's still in POC stage, the overall architecture is basically built on the premise of final runnability and release. So, as long as POC is okay, there will be a reusable template for rapid development and migration.
+2.Assist colleague in developing front-end components of monitor project. This project is the first real project for him, so it may be a bit imperfect in the development process. Therefore, I need to give him appropriate guidance and suggestions in the process of his development, guide him to think, and complete the development of the project in the most appropriate way. It also enhanced his ability to think and act.
+3.Migrate and install the server. Through server upgrade, migration and environment installation, I can get a better and faster understanding of the structure and deployment of the project. Now I know the approximate deployment and dependency of the project.
+4.Developed a powershell script about patching check. In order to find out the items that may affect our server when patching quickly and conveniently, I use the powershell script to develop a parsing script to help us quickly compare and filter, and export the list of servers that may have an impact.
+
+Strengths
+In the past, not only do the back-end, but also have knowledge and contact with the front-end, so I can take into account both front-end and back-end tasks, especially the task of upgrading with new technology, and can quickly learn and develop according to past experience.
+
+Approvement
+1.I need to learn business knowledge more seriously and combine it with practice so as to familiarize ourselves with business functions as soon as possible and solve problems.
+2.Actively improve the relationship between colleagues, more to share work experience and experience with each other.
+3.While doing every job well, I should also sum up my experience so that I can better accomplish other tasks next time.
+4.Actively participate in all kinds of training and sharing sessions provided by the company, so that I can be closer to the actual understanding of functions and needs.
+
+Year End Comment
+In the past month, I have participated in various forms of sharing and training of companies and departments. I understand and appreciate that the company's culture is very open. It intend to lead you to progress. In such a nice environment, I will do my best to integrate into the company and actively develop my strengths. Contribute my own strength, progress and grow with the team. On the premise of doing a good job in my own work, strive to bring more valuable contributions to the company.
+
+
+Accomplishment
+1.这一个月来，开展了前端框架的对比改造工作。虽然现在还是处于poc阶段，但是整体的架构基本都是按照最终可运行和发布为前提来构建的，所以，只要poc没问题，后面的改造工作，就有了一个可参照复用的模板，可以快速地进行开发和迁移。
+2.协助同事进行monitor项目的前端部分的开发。此项目对于该同事来说，相当于第一个真正的项目，因此，在开发的过程中，可能会有点不完善。因此，我需要在他开发的过程中，给予合适的引导和建议，引导他进行思考，以最合适的方式去完成项目的开发，另外也提升了他思考和动手的能力。
+3.迁移和安装服务器。通过对服务器的升级、迁移和环境安装，可以更好和快速地了解到项目的结构和部署方式，现在已了解到项目大概的部署和依赖关系。
+4.开发了一个patching check powershell脚本。为方便快速地找出每次patching时，有可能对我们服务器产生影响的项，就使用了脚本功能，开发了一个解析脚本，帮助大家快速地进行对比过滤，显示出有可能产生影响的服务器列表。
+
+Strengths
+以前不但做后端，同时也对前端有了解和接触，因此可以兼顾前后端的任务，特别是用新技术进行改造升级的任务，可以根据以往的经验快速学习和开发。
+
+Approvement
+1.需要更加认真地学习业务知识,与实际相结合,争取尽早熟悉业务功能和着手解决问题.
+2.积极搞好同事之间的关系,更多地去跟大家交流工作经验和心得.
+3.在做好每项工作的同时,还应该总结经验,以便下次更好地完成其它的任务.
+4.积极参加公司提供的各类培训和分享会,让自己可以更贴近实际地了解功能和需求.
+
+Year End Comment
+在进入公司的一个月里，我也已经参加过了公司和部门大大小小各种形式的分享会和培训，了解并体会到公司的文化是很open，原意带领大家进步，我在这样nice的环境里，也一定会尽自己的努力，融入公司，积极地发挥自己所长，贡献自己的力量，跟团队一起进步和成长。在做好自己工作的前提下，争取为公司带来更多有价值的贡献。
